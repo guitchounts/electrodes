@@ -1,0 +1,44 @@
+Layer = Top
+Report Origin = (0.0,0.0)
+Units used = mm
+
+RefDes LocationX LocationY Rotation Value Package
+J1 9.0000 14.0000   0 HIROSE_DF40C-70DS-0.4V(51) HIROSE_DF40C-70DS-0.4V(51)
+U1 9.6000 6.5000   0 RHD2132_QFN QFN56_8_X_8_LARGE
+U2 8.4000 21.5000 180 RHD2132_QFN QFN56_8_X_8_LARGE
+
+
+Layer = Bottom
+Report Origin = (0.0,0.0)
+Units used = mm
+
+RefDes LocationX LocationY Rotation Value Package
+C1 13.0500 3.0000  90 10nF C0402K
+C2 13.1500 5.2000   0 100nF C0402K
+C3 4.9500 25.0000 270 10nF C0402K
+C4 4.8500 22.8000 180 100nF C0402K
+C5 9.4200 19.8000   0 100nF C0402K
+C6 13.4500 21.6500   0 100nF C0402K
+C7 13.4500 22.9500   0 100nF C0402K
+C8 10.0000 25.5000 180 100nF C0402K
+J2 9.0000 14.0000   0 MOLEX_501190-2017 MOLEX_501190-2017
+R1 4.0400 2.9600   0 100 R0402
+R2 3.6500 8.5100   0 100 R0402
+R3 10.0300 3.7400   0 100 R0402
+R4 13.0000 18.5000 180 100 R0402
+R5 6.7000 25.6000 180 100 R0402
+U3 10.0000 22.6000 180 ADXL335 ADXL335
+
+
+Layer = Non-Surface Mount- Top Layer
+Report Origin = (0.0,0.0)
+Units used = mm
+
+RefDes LocationX LocationY Rotation Value Package
+
+
+Layer = Non-Surface Mount- Bottom Layer
+Report Origin = (0.0,0.0)
+Units used = mm
+
+RefDes LocationX LocationY Rotation Value Package
